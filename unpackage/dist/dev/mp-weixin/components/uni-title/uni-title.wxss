@@ -1,0 +1,20 @@
+
+.uni-title-box.data-v-366c56fc {
+  margin: 10px auto;
+}
+.title-box.data-v-366c56fc, .text-box.data-v-366c56fc {
+  text-align: center;
+}
+.title-box.data-v-366c56fc {
+  font-size: 20px;
+  font-weight: 600;
+  text-shadow: 2px 2px 2px rgb(98 98 98 / 52%);
+}
+.title2.data-v-366c56fc {
+  color: #ed7c06;
+}
+.text-box.data-v-366c56fc {
+  color: #999;
+  line-height: 30px;
+}
+

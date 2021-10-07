@@ -1,0 +1,32 @@
+
+.item.data-v-b237504c {
+	height: 50px;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	padding: 0 10px;
+	border-top: 2px solid #efefef;
+}
+.item .label.data-v-b237504c {
+	width: 100px;
+}
+.item image.data-v-b237504c {
+	width: 100px;
+	height: 40px;
+}
+.item input.data-v-b237504c {
+	flex: 1;
+}
+.item button.data-v-b237504c {
+	width: 100%;
+	margin-top: 20px;
+}
+.tip-text.data-v-b237504c {
+	width: 100%;
+	text-align: right;
+	color: #333;
+}
+.tip-text text.data-v-b237504c {
+	text-decoration: underline;
+}
+
